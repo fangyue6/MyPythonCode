@@ -1,0 +1,125 @@
+# -*- coding: utf-8 -*-
+"""
+Created on 2017/2/22
+
+Using mnist data and the accuracy was about 0.85
+
+@author: Mr.Fang
+"""
+from __future__ import absolute_import
+from __future__ import print_function
+import os
+from PIL import Image
+import numpy as np
+from keras.preprocessing.image import ImageDataGenerator
+from keras.models import Sequential
+# from keras.layers.core import Dense, Dropout, Activation, Flatten
+from keras.layers.advanced_activations import PReLU
+# from keras.layers.convolutional import Convolution2D, MaxPooling2D
+from keras.optimizers import SGD, Adadelta, Adagrad
+from keras.utils import np_utils, generic_utils
+from six.moves import range
+
+from keras.layers import Conv2D, MaxPooling2D
+from keras.layers import Activation, Dropout, Flatten, Dense
+
+from keras import backend as K
+
+img_width, img_height = 28, 28
+print(K.image_data_format())
+if K.image_data_format() == 'channels_first':
+    input_shape = (1, img_width, img_height)
+else:
+    input_shape = (img_width, img_height, 1)
+
+#数据预处理
+#读取文件夹mnist下的42000张图片（灰度图）
+def load_data():
+    data = np.empty((42000,img_width, img_height,1),dtype="float32")
+    label = np.empty((42000,),dtype="uint8")
+
+    imgs = os.listdir("./mnist")
+    num = len(imgs)
+    for i in range(num):
+        img = Image.open("./mnist/"+imgs[i])
+        arr = np.asarray(img,dtype="float32")
+        data[i,:,:,0] = arr
+        label[i] = int(imgs[i].split('.')[0])
+    return data,label
+def load_testData():
+    testImg = Image.open('testNum5.jpg')
+    imgArr = np.asarray(testImg,dtype="float32")
+    # print(imgArr.shape)
+    testData = np.empty((1,img_width, img_height, 1),dtype="float32")
+    testData[0,:,:,0] = imgArr
+    return testData
+if __name__ == '__main__':
+
+    testData = load_testData()
+            
+    #保存模型数据的文件
+    filename = 'mnistCnnTrain.h5'
+    #加载数据
+    data, label = load_data()
+    print(data.shape[0], ' samples')
+    
+    #label为0~9共10个类别，转化格式
+    print(label.shape)
+    label = np_utils.to_categorical(label, 10)
+    print(label.shape)
+    
+    ###############
+    #开始建立CNN模型
+    ###############
+    
+    #生成一个model
+    model = Sequential()
+    
+    #第一个卷积层，4个卷积核，每个卷积核大小5*5。1表示输入的图片的通道,灰度图为1通道。
+    #激活函数用tanh
+    #你还可以在model.add(Activation('tanh'))后加上dropout的技巧: model.add(Dropout(0.5))
+    # model.add(Convolution2D(nb_filter=4,nb_row=5,nb_col=5,border_mode='valid',input_shape=(1,28,28))) 
+    model.add(Conv2D(4, (5, 5), border_mode='valid',input_shape=input_shape))
+    model.add(Activation('tanh'))
+    
+    #第二个卷积层，8个卷积核，每个卷积核大小3*3。4表示输入的特征图个数，等于上一层的卷积核个数
+    # model.add(Convolution2D(nb_filter=8,nb_row=3,nb_col=3,border_mode='valid')) 
+    model.add(Conv2D(8, (3, 3), border_mode='valid'))
+    model.add(Activation('tanh'))
+    model.add(MaxPooling2D(pool_size=(2, 2)))
+    
+    #第三个卷积层，16个卷积核，每个卷积核大小3*3
+    # model.add(Convolution2D(nb_filter=16,nb_row=3,nb_col=3,border_mode='valid')) 
+    model.add(Conv2D(16, (3, 3), border_mode='valid'))
+    model.add(Activation('tanh'))
+    model.add(MaxPooling2D(pool_size=(2, 2)))
+    
+    #全连接层，先将前一层输出的二维特征图flatten为一维的。
+    #Dense就是隐藏层。16就是上一层输出的特征图个数。4是根据每个卷积层计算出来的：(28-5+1)得到24,(24-3+1)/2得到11，(11-3+1)/2得到4
+    model.add(Flatten())
+    model.add(Dense(128))
+    model.add(Activation('tanh'))
+    
+    #Softmax分类，输出是10类别
+    model.add(Dense(10))
+    model.add(Activation('softmax'))
+    
+    #############
+    #开始训练模型
+    ##############
+    model.compile(loss='categorical_crossentropy', optimizer='adadelta',class_mode="categorical",metrics=["accuracy"])
+    
+    #validation_split=0.2，将20%的数据作为验证集。
+    
+    f = os.path.exists(filename)
+    if f == False:
+        print('Training................')
+        # model.fit(data, label, batch_size=100,nb_epoch=1,shuffle=True,verbose=1,show_accuracy=True,validation_split=0.2)
+        model.fit(data, label, batch_size=100,epochs=10,shuffle=True,verbose=1,validation_split=0.2)
+        model.save(filename)
+    else:
+        print('Loading Data............')
+        model.load_weights(filename)
+    #数据测试
+    print(model.predict(testData))
+    print(model.predict_classes(testData))
