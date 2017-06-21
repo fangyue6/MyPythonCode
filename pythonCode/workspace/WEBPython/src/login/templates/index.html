@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link href="/static/css/style.css" rel='stylesheet' type='text/css' />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script type="text/javascript" src="static/js/jquery-1.7.2.min.js"></script>
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!--webfonts-->
+<link href='http://fonts.googleapis.com/css?family=Oxygen:400,300,700|Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+<!--//webfonts-->
+<script type="text/javascript">
+	function mouseout(id){
+		id_value=$("#"+id).val()
+		if(id_value==null||id_value==""){
+			$("#"+id).css("border-color","red")
+		}
+	} 
+	function mouseover(id){
+		id_value=$("#"+id).val()
+		if(id_value==null||id_value==""){
+			$("#"+id).css("border-color","black")
+		}
+	} 
+	function check(){
+		//alert("用户名："+$("#active").val()+"\n密码："+$("#password").val())
+		username=$("#active").val()
+		password=$("#password").val()
+		if(username==null||username==""){
+			$("#active").css("border-color","red")
+			return false
+		}
+		if(password==null||password==""){
+			$("#password").css("border-color","red")
+			return false
+		}
+		return true;
+		var address=$("#address").val();
+		var name=$("#name").val();
+		var phones=$("#phone").val();
+		
+		var patt = /^[a-zZ-Z0-9]{6,11}$/;
+		var phone=/^[0-9]{11}$/;
+		if(!address){
+		   	 alert("地址请输入正确");
+  			 return false;//return false 阻止提交
+		}
+		if(!name){
+   			alert("姓名不能为空");
+  			 return false;//return false 阻止提交
+  			 }
+  	  	if(!phone.test(phones)){
+   			alert("电话必须为11位的数字");
+  			 return false;//return false 阻止提交
+  			 }
+  		return true;
+	}
+</script>
+</head>
+ 
+<body>
+	<div class="main">
+		<div class="user">
+			<img src="/static/images/user.png" alt="">
+		</div>
+  {% if message %}
+  <p style="color:red">{{ message }}</p>
+  {% endif %}
+		<div class="login">
+			<div class="inset">
+				<!-----start-main---->
+				<form action="/signin" method="post" onsubmit="return check();">
+			         <div>
+						<span><label>Username</label></span>
+						<span><input type="text" class="textbox" id="active" name="username" onmouseover="mouseover('active')" onmouseout="mouseout('active')"></span>
+					 </div>
+					 <div>
+					    <span><label>Password</label></span>
+					    <span><input type="password" class="password" name="password" id="password" onmouseover="mouseover('password')" onmouseout="mouseout('password')"></span>
+					 </div>
+					<div class="sign">
+						<div class="submit">
+						  <input type="submit" value="LOGIN" >
+						</div>
+						<span class="forget-pass">
+							<a href="#">Forgot Password?</a>
+						</span>
+							<div class="clear"> </div>
+					</div>
+					</form>
+				</div>
+			</div>
+		<!-----//end-main---->
+		</div>
+		 <!-----start-copyright---->
+   					<div class="copy-right">
+						<p>Template by <a href="http://w3layouts.com">w3layouts</a></p> 
+					</div>
+				<!-----//end-copyright---->
+	 
+</body>
+</html>

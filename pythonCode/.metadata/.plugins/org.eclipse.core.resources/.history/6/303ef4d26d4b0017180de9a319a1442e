@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Nov  8 12:12:08 2016
+
+@author: admin
+"""
+import os
+from selenium import webdriver  
+from selenium.webdriver.common.action_chains import ActionChains #引入ActionChains鼠标操作类  
+from selenium.webdriver.common.keys import Keys #引入keys类操作  
+import time  

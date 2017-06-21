@@ -1,0 +1,45 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Nov  8 12:12:08 2016
+
+@author: admin
+"""
+import os
+from selenium import webdriver  
+from selenium.webdriver.common.action_chains import ActionChains #引入ActionChains鼠标操作类  
+from selenium.webdriver.common.keys import Keys #引入keys类操作  
+import time  
+
+import urllib.request
+from bs4 import BeautifulSoup
+   
+def s(int):  
+    time.sleep(int)  
+
+def get_href(url):
+    #page = urllib.urlopen(url)
+    headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0'}  
+    req = urllib.request.Request(url=url, headers=headers)  
+    html_doc = urllib.request.urlopen(req).read()  
+    
+    mystr = html_doc.decode("utf8")
+
+    soup=BeautifulSoup(html_doc,"lxml")#,"lxml"
+    print(soup)
+    soup_pret=soup.prettify()
+    #.find('table')
+    href=soup.find('div',class_='mt20')[1]
+    
+    # .find('div',class_='ndownlist').find('ul').find('li')[0].find('p').find('a').get('value')
+    #find('table').find_all('table')[1].find('td').find('input').get('value').strip()
+    return href
+
+#chromedriver = "C:\Program Files (x86)\Mozilla Firefox\firefox.exe"    
+browser = webdriver.Firefox()  #"C:/path/Chromedriver.exe"
+browser.get('http://www.baidu.com')  
+print('现在将浏览器最大化') 
+#browser.maximize_window()  
+text = browser.find_element_by_name('f').text 
+text = browser.find_element_by_id('lg').text 
+browser.get
+print(text) #打印备案信息  

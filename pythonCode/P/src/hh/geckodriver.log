@@ -1,0 +1,494 @@
+1496832610195	geckodriver	INFO	Listening on 127.0.0.1:63497
+1496832612204	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.NlBq2ROjHztr
+1496832612207	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496832612236	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63508
+1496832612837	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496832616077	Marionette	INFO	Listening on port 63508
+1496832616574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496832701651	Marionette	INFO	Ceased listening
+1496832905889	geckodriver	INFO	Listening on 127.0.0.1:50389
+1496832907787	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.fJjwbYQUQqDH
+1496832907789	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496832907820	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50400
+1496832908509	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496832911593	Marionette	INFO	Listening on port 50400
+1496832912046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+1496832991255	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496834176706	Marionette	INFO	Ceased listening
+1496834178046	geckodriver	INFO	Listening on 127.0.0.1:60072
+1496834179930	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.Ob4QKLvVB36Q
+1496834179938	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496834179982	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60084
+1496834180719	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496834185852	Marionette	INFO	Listening on port 60084
+1496834186213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496834220937	Marionette	INFO	Ceased listening
+1496834385795	geckodriver	INFO	Listening on 127.0.0.1:61797
+1496834387686	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.cXe0fabuSvPf
+1496834387690	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496834387718	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61847
+1496834388399	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496834391847	Marionette	INFO	Listening on port 61847
+1496834392954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496834937913	Marionette	INFO	Ceased listening
+nabled
+1496834449950	Marionette	INFO	Listening on port 62524
+1496834451013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496834458677	Marionette	INFO	New connections will no longer be accepted
+1496834819203	geckodriver	INFO	Listening on 127.0.0.1:49283
+1496834821071	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.AD7MyDzifMQ0
+1496834821073	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496834821142	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49296
+1496834821814	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496834824743	Marionette	INFO	Listening on port 49296
+1496834824981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+1496834830745	Marionette	INFO	New connections will no longer be accepted
+1496834871338	geckodriver	INFO	Listening on 127.0.0.1:49735
+1496834873216	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.YCGjDfN8AJaz
+1496834873220	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496834873258	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49791
+1496834873888	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496834877166	Marionette	INFO	Listening on port 49791
+1496834877693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+1496834884347	Marionette	INFO	New connections will no longer be accepted
+1496834939077	geckodriver	INFO	Listening on 127.0.0.1:50571
+1496834940983	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.z3CclfXKUjkT
+1496834940988	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496834941027	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50588
+1496834942010	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496834945062	Marionette	INFO	Listening on port 50588
+1496834945628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+1496834949896	Marionette	INFO	New connections will no longer be accepted
+1496835190574	geckodriver	INFO	Listening on 127.0.0.1:52858
+1496835192439	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.QUwKZhG9W77e
+1496835192443	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496835192484	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52872
+1496835193143	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496835196287	Marionette	INFO	Listening on port 52872
+1496835196886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496835249976	Marionette	INFO	Ceased listening
+1496835252578	geckodriver	INFO	Listening on 127.0.0.1:53326
+1496835254484	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.74hauriqVSzp
+1496835254489	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496835254522	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53360
+1496835255098	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496835258217	Marionette	INFO	Listening on port 53360
+1496835258689	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496835290302	Marionette	INFO	Ceased listening
+1496835291998	geckodriver	INFO	Listening on 127.0.0.1:53891
+1496835293899	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.V7bfRcg2o9ov
+1496835293905	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496835293956	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53904
+1496835294814	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496835298112	Marionette	INFO	Listening on port 53904
+1496835299191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+1496835307882	Marionette	INFO	New connections will no longer be accepted
+1496835481002	geckodriver	INFO	Listening on 127.0.0.1:55703
+1496835482772	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.EMmKSvMGMjbS
+1496835482776	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496835482814	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55727
+1496835483437	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496835486784	Marionette	INFO	Listening on port 55727
+1496835487192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+1496835496510	Marionette	INFO	New connections will no longer be accepted
+1496835539975	geckodriver	INFO	Listening on 127.0.0.1:56438
+1496835541842	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.F36c2V48s0pg
+1496835541844	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496835541875	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56484
+1496835542829	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496835545813	Marionette	INFO	Listening on port 56484
+1496835546417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+1496835560357	Marionette	INFO	New connections will no longer be accepted
+1496836907785	geckodriver	INFO	Listening on 127.0.0.1:53097
+1496836909695	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.vSISJh8gZIT0
+1496836909699	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496836909772	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53115
+1496836911354	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496836915397	Marionette	INFO	Listening on port 53115
+1496836915876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496836935209	Marionette	INFO	Ceased listening
+1496837119405	geckodriver	INFO	Listening on 127.0.0.1:55511
+1496837121283	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.xFjyx4WFkOZW
+1496837121286	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496837121315	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55535
+1496837121890	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496837125054	Marionette	INFO	Listening on port 55535
+1496837125752	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496837139854	Marionette	INFO	Ceased listening
+1496837147217	geckodriver	INFO	Listening on 127.0.0.1:55767
+1496837148913	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.lqeaMfeDB3gQ
+1496837148916	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496837148956	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55781
+1496837149545	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496837152789	Marionette	INFO	Listening on port 55781
+1496837153239	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496837167146	Marionette	INFO	Ceased listening
+1496837387125	geckodriver	INFO	Listening on 127.0.0.1:58577
+1496837388881	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.STPnniesOywG
+1496837388884	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496837388932	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58600
+1496837389679	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496837393555	Marionette	INFO	Listening on port 58600
+1496837394262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496837414644	Marionette	INFO	Ceased listening
+1496837444127	geckodriver	INFO	Listening on 127.0.0.1:59348
+1496837445783	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.7mwZwG6Vytqb
+1496837445789	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496837445835	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59413
+1496837446561	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496837449870	Marionette	INFO	Listening on port 59413
+1496837450460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496837463991	Marionette	INFO	Ceased listening
+1496837472165	geckodriver	INFO	Listening on 127.0.0.1:59727
+1496837473875	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.8sVLRQqQcDJk
+1496837473880	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496837473915	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59761
+1496837474510	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496837477716	Marionette	INFO	Listening on port 59761
+1496837478188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496837498101	Marionette	INFO	Ceased listening
+1496837701458	geckodriver	INFO	Listening on 127.0.0.1:62640
+1496837703008	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.4twvsACw3cxR
+1496837703012	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496837703058	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62654
+1496837703622	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496837707039	Marionette	INFO	Listening on port 62654
+1496837707523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496837753537	Marionette	INFO	Ceased listening
+1496837754907	geckodriver	INFO	Listening on 127.0.0.1:63094
+1496837756489	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.mitVa5fzGYHJ
+1496837756495	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496837756526	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63108
+1496837757176	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496837760374	Marionette	INFO	Listening on port 63108
+1496837760968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/jsonview/converter-sniffer.js, line 68: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496837788771	Marionette	INFO	Ceased listening
+1496837804260	geckodriver	INFO	Listening on 127.0.0.1:63635
+1496837805790	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.VKdO354egp2P
+1496837805793	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496837805825	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63702
+1496837806549	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496837809710	Marionette	INFO	Listening on port 63702
+1496837810364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496838010052	Marionette	INFO	Ceased listening
+1496838026508	geckodriver	INFO	Listening on 127.0.0.1:49432
+1496838028314	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.QIWJs7DebgnE
+1496838028319	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496838028368	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49448
+1496838029028	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496838032672	Marionette	INFO	Listening on port 49448
+1496838033599	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496838338070	Marionette	INFO	Ceased listening
+nabled
+1496838198784	Marionette	INFO	Listening on port 51096
+1496838199257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496838336785	Marionette	INFO	Ceased listening
+nabled
+1496838293122	Marionette	INFO	Listening on port 52167
+1496838294405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+1496838327986	Marionette	INFO	New connections will no longer be accepted
+1496838345563	geckodriver	INFO	Listening on 127.0.0.1:52683
+1496838347310	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.iafO3sPaW5iq
+1496838347313	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496838347345	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52706
+1496838348130	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496838351776	Marionette	INFO	Listening on port 52706
+1496838352592	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+1496838395701	Marionette	INFO	New connections will no longer be accepted
+1496838400475	geckodriver	INFO	Listening on 127.0.0.1:53108
+1496838402267	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.uBu7iS3HNyLq
+1496838402277	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496838402304	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53185
+1496838402965	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496838406334	Marionette	INFO	Listening on port 53185
+1496838407035	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+1496838419066	Marionette	INFO	New connections will no longer be accepted
+1496838430135	geckodriver	INFO	Listening on 127.0.0.1:53559
+1496838431896	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.SxNkoVgDc2rv
+1496838431902	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496838431941	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53571
+1496838432581	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496838436201	Marionette	INFO	Listening on port 53571
+1496838437203	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+1496838493351	Marionette	INFO	New connections will no longer be accepted
+1496838499450	geckodriver	INFO	Listening on 127.0.0.1:54187
+1496838501156	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.s2Qw7QiUU6BY
+1496838501159	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496838501189	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54210
+1496838501786	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496838505033	Marionette	INFO	Listening on port 54210
+1496838505666	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+1496838516504	Marionette	INFO	New connections will no longer be accepted
+1496838559219	geckodriver	INFO	Listening on 127.0.0.1:54787
+1496838560940	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.rPwTcO4jSd6z
+1496838560943	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496838560968	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54797
+1496838561624	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496838564887	Marionette	INFO	Listening on port 54797
+1496838565434	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+1496838576155	Marionette	INFO	New connections will no longer be accepted
+1496838632391	geckodriver	INFO	Listening on 127.0.0.1:55363
+1496838634174	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.f1nvtdNGCtBa
+1496838634177	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496838634208	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55393
+1496838634804	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496838638139	Marionette	INFO	Listening on port 55393
+1496838638643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+1496838651514	Marionette	INFO	New connections will no longer be accepted
+1496838781501	geckodriver	INFO	Listening on 127.0.0.1:56883
+1496838783171	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.7fV4b03K7FTS
+1496838783176	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496838783234	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56907
+1496838783932	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496838787363	Marionette	INFO	Listening on port 56907
+1496838788461	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496839116635	Marionette	INFO	Ceased listening
+1496844654480	geckodriver	INFO	Listening on 127.0.0.1:63294
+1496844656160	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.VoehpFf4jGeD
+1496844656165	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496844656222	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63313
+1496844656883	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496844660154	Marionette	INFO	Listening on port 63313
+1496844660606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496844681218	Marionette	INFO	Ceased listening
+1496845350829	geckodriver	INFO	Listening on 127.0.0.1:55439
+1496845352779	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.nxuuXVxJan6N
+1496845352781	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496845352825	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55448
+1496845353889	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496845356136	Marionette	INFO	Listening on port 55448
+1496845356481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496845374271	Marionette	INFO	Ceased listening
+1496845400606	geckodriver	INFO	Listening on 127.0.0.1:55766
+1496845402570	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.WCZnfqKlasPG
+1496845402584	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496845402664	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55789
+1496845403340	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496845406088	Marionette	INFO	Listening on port 55789
+1496845406329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ccc557.com/js/adapp.js, line 1: SyntaxError: expected expression, got '<'
+1496845485823	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1496845583498	Marionette	INFO	New connections will no longer be accepted
+e.ZBOxQVbRK5pP
+1496845420973	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496845420994	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56064
+1496845421594	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496845424108	Marionette	INFO	Listening on port 56064
+1496845424613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496845430756	Marionette	INFO	New connections will no longer be accepted
+1496845431277	geckodriver	INFO	Listening on 127.0.0.1:56203
+1496845433259	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.UI0Euv0TzpgA
+1496845433264	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496845433308	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56219
+1496845433882	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496845436686	Marionette	INFO	Listening on port 56219
+1496845436996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496845441705	Marionette	INFO	New connections will no longer be accepted
+1496845442159	geckodriver	INFO	Listening on 127.0.0.1:56399
+1496845444132	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.o25BJPN0vrqo
+1496845444137	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496845444176	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56445
+1496845444775	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496845447403	Marionette	INFO	Listening on port 56445
+1496845447792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496845455715	Marionette	INFO	New connections will no longer be accepted
+1496845456228	geckodriver	INFO	Listening on 127.0.0.1:56571
+1496845458196	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.DS0QhmYlwvlC
+1496845458199	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496845458221	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56627
+1496845458794	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496845461607	Marionette	INFO	Listening on port 56627
+1496845462240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496845473861	Marionette	INFO	New connections will no longer be accepted
+1496845474260	geckodriver	INFO	Listening on 127.0.0.1:56769
+1496845476235	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.hhSLy3fiE5ye
+1496845476240	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496845476280	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56777
+1496845477319	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496845479548	Marionette	INFO	Listening on port 56777
+1496845479924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496845487250	Marionette	INFO	New connections will no longer be accepted
+1496845487737	geckodriver	INFO	Listening on 127.0.0.1:56863
+1496845489689	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.nZBJ4LXUAfb0
+1496845489691	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496845489718	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56885
+1496845490341	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496845492843	Marionette	INFO	Listening on port 56885
+1496845493354	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496845517079	Marionette	INFO	New connections will no longer be accepted
+1496845517505	geckodriver	INFO	Listening on 127.0.0.1:57155
+1496845519468	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.GiUlat2cYnce
+1496845519473	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496845519512	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57161
+1496845520236	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496845523017	Marionette	INFO	Listening on port 57161
+1496845523495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496845531255	Marionette	INFO	New connections will no longer be accepted
+1496845531735	geckodriver	INFO	Listening on 127.0.0.1:57296
+1496845533707	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.lf8LN4ZQG7n8
+1496845533710	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496845533732	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57302
+1496845534612	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496845536822	Marionette	INFO	Listening on port 57302
+1496845537063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496845544083	Marionette	INFO	New connections will no longer be accepted
+1496845544501	geckodriver	INFO	Listening on 127.0.0.1:57433
+1496845546454	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.jrQdtHO7wrt5
+1496845546456	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496845546479	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57459
+1496845547048	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496845549397	Marionette	INFO	Listening on port 57459
+1496845549663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1496845558044	Marionette	INFO	New connections will no longer be accepted
+1496845558499	geckodriver	INFO	Listening on 127.0.0.1:57628
+1496845560454	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.t1wxhOR7uGac
+1496845560456	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1496845560481	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57636
+1496845561131	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1496845563429	Marionette	INFO	Listening on port 57636
+1496845563688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1496845587228	Marionette	INFO	Ceased listening
